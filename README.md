@@ -1,5 +1,5 @@
 ### Hi, Welcome to my github profile 👋
 
-I am currently working on my first iOS app, its ready to go but I'm having some problems with my account. Anyways, stay tuned!
-
-
+I am a developer with my first app on the app store (Here is the app website)[https://sites.google.com/view/livre/home]
+I have some shortcuts and music playlists on my site (here)[https://sites.google.com/view/arnavmotwani/home]
+Finally, I dabble with python!
