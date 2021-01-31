@@ -9,6 +9,8 @@ I am a High School student in my senior year. I am an iOS app developer with an 
 
 > [CircularProgressSwiftUI](https://github.com/ArnavMotwani/CircularProgressSwiftUI) is a SwiftUI package that creates an simple and animated circular progress bar.
 
+> [KeyboardToolbarsSwiftUI](https://github.com/ArnavMotwani/KeyboardToolbarsSwiftUI) is a SwiftUI pacakge that makes adding floating toolbars to keyboards as simple as adding a modifier.
+
 > [Shortcuts](https://sites.google.com/view/arnavmotwani/shortcuts) is a list of shortcuts I designed for iOS and iPadOS, I use these regularly and I thought others might like them.
 
 ## Hobbies and interests
