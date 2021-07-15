@@ -1,6 +1,9 @@
 # Hi there, I'm Arnav, welcome to my GitHub page 👋
 
-I am a High School student who is almost done with  my senior year. I am an iOS app developer with an app on the App Store.
+I am an iOS app developer and an amateur designer with an app on the App Store. 
+
+* [My website](https://www.arnv.net)
+* [My Dribbble page](https://dribbble.com/arnavmotwani)
 
 ## My current projects <br/>
 > [Livre - The book tracker](https://apps.apple.com/in/app/livre-the-book-tracker/id1540542887) is an app designed to help readers keep track on their progress in a book.
@@ -18,5 +21,3 @@ I am a High School student who is almost done with  my senior year. I am an iOS 
 * Technology
 * Formula 1
 * Photography
-
-## [Checkout my website, portfolio and blog!](https://www.arnv.net)
