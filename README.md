@@ -20,4 +20,4 @@ I am an iOS app developer and an amateur designer with an app on the App Store.
 
 * Technology
 * Formula 1
-* Photography
+* Design
