@@ -1,6 +1,7 @@
 # Hi there, I'm Arnav, welcome to my GitHub page 👋
 
-I am an iOS app developer and an amateur designer with an app on the App Store. 
+I'm an Engineering and CS student at the University of Illinois at Urbana-Champaign.
+I am an also iOS app developer with an app on the App Store and an amateur designer in my free time.
 
 * [My website](https://www.arnv.net)
 * [My Dribbble page](https://dribbble.com/arnavmotwani)
