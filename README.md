@@ -5,7 +5,7 @@ I'm a recent Engineering and Computer Science graduate from the University of Il
 Thanks for checking out my GitHub!
 
 ## Projects
-### frzn-docs (coming soon)
+### frzn-docs (beta)
 An AI-powered documentation agent that lets you ask natural-language questions about any GitHub repo. It clones and indexes your code into semantic embeddings and powers a RAG workflow (via LangGraph & OpenAI) to deliver fast, context-aware answers straight from your source.
 
 ## My legacy projects <br/>
