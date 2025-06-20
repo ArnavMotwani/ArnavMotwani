@@ -13,11 +13,11 @@ An AI-powered documentation agent that lets you ask natural-language questions a
 
 ## 💡 My legacy projects
 
-> [UnsplashSwiftUI](https://github.com/ArnavMotwani/UnsplashSwiftUI) is a package designed to make fetching and loading images from the Unsplash API simple and efficient.
+* [UnsplashSwiftUI](https://github.com/ArnavMotwani/UnsplashSwiftUI) is a package designed to make fetching and loading images from the Unsplash API simple and efficient.
 
-> [CircularProgressSwiftUI](https://github.com/ArnavMotwani/CircularProgressSwiftUI) is a SwiftUI package that creates an simple and animated circular progress bar.
+* [CircularProgressSwiftUI](https://github.com/ArnavMotwani/CircularProgressSwiftUI) is a SwiftUI package that creates an simple and animated circular progress bar.
 
-> [KeyboardToolbarsSwiftUI](https://github.com/ArnavMotwani/KeyboardToolbarsSwiftUI) is a SwiftUI pacakge that makes adding floating toolbars to keyboards as simple as adding a modifier.
+* [KeyboardToolbarsSwiftUI](https://github.com/ArnavMotwani/KeyboardToolbarsSwiftUI) is a SwiftUI pacakge that makes adding floating toolbars to keyboards as simple as adding a modifier.
 
 ---
 
