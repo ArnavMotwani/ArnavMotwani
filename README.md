@@ -4,9 +4,11 @@ I’m a freshly minted Engineering & Computer Science grad from UIUC who spent s
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.svg">
-  <img alt="Ocean Snake Animation"
-    src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.svg">
+    srcset="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/github-snake.svg">
+  <img alt="GitHub Snake Animation"
+    src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/github-snake.svg">
 </picture>
 
 ---
