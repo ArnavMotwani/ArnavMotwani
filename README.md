@@ -4,9 +4,9 @@ I’m a freshly minted Engineering & Computer Science grad from UIUC who spent s
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.gif">
+    srcset="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.svg">
   <img alt="Ocean Snake Animation"
-    src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.gif">
+    src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.svg">
 </picture>
 
 ---
