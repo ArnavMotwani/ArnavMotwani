@@ -4,7 +4,7 @@ I’m a freshly minted Engineering & Computer Science grad from UIUC who spent s
 
 <picture>
   <img alt="UIUC‑ocean themed snake animation"
-       src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.gif">
+       src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.svg">
 </picture>
 
 ---
