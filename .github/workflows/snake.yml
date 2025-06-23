@@ -19,14 +19,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake & Ocean GIF
+        uses: Platane/snk@v3
         with:
           github_user_name: ArnavMotwani
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.svg?color_snake=#FF5F05&color_dots=#eeeeee,#bdd7f0,#87b6e0,#4f95d0,#2274c0
+            dist/ocean.gif?color_snake=#FF5F05&color_dots=#eeeeee,#bdd7f0,#87b6e0,#4f95d0,#2274c0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
