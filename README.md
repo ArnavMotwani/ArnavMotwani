@@ -3,8 +3,8 @@
 I’m a freshly minted Engineering & Computer Science grad from UIUC who spent senior year moonlighting as a full-stack code alchemist. Thanks for swinging by my GitHub! Let’s build something awesome!
 
 <picture>
-    <img alt="UIUC‑ocean themed snake animation"
-       src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.svg">
+  <img alt="UIUC‑ocean themed snake animation"
+       src="https://raw.githubusercontent.com/ArnavMotwani/ArnavMotwani/output/ocean.svg?ts=${{ github.run_id }}">
 </picture>
 
 ---
